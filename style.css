@@ -1,0 +1,61 @@
+*{
+	max-width: 2000px;
+	margin: 0 auto;
+	
+	padding: 0;
+	top: 0;
+	left: 0;
+}
+.main{
+	max-width: 2000px;
+	margin: 0 auto;
+	text-align: center;
+	width: 100%;
+	height: 100vh;
+	background-color: #FFFFFF; 
+}
+
+
+.text-main2 h1{
+	display: inline;
+	
+}
+
+
+.text-main2{
+	border:10px;
+	
+	
+	position: relative;
+	margin: 0 auto;
+	
+
+	top:50%;
+
+	
+
+	display: inline-block;
+	width: 24em;
+	
+
+
+	border: : 1px dashed #333;
+	text-align: center;
+
+}
+
+
+.text-main2 a{
+
+	display: inline-block;
+	width: 10em;
+	
+	padding: 10px;
+	font-size: 1.5em;
+	background-color: #00ff00;
+
+	color: #000000;
+	border: 5px;
+
+	
+}
